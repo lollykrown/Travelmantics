@@ -2,7 +2,7 @@
 Travelmantics
 
 <img src="screenshots/Screenshot_20190807-210407.png" alt="home" width="40%" align="left" /> 
-<img src="screenshots/Screenshot_20190807-210428.png" alt="others" width="60%" align="right" /> <Br/>
+<img src="screenshots/Screenshot_20190807-210428.png" alt="others" width="40%" align="right" /> <Br/>
 
 **ALC 4 Android track chaalenge 2**
 
